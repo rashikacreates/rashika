@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashika Choudhary</h1>
 <h3 align="center">A passionate software engineer from India</h3>
+<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="50" height="50">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashikacreates&label=Profile%20views&color=0e75b6&style=flat" alt="rashikacreates" /> </p>
 
